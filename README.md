@@ -1,5 +1,5 @@
 # Consent-Rights-and-Privacy-to-Participate-in-Training-Needs-Assessment-TNA-for-State-Policy-Actors-
-**CONSENT:** Your personal data collected are required for the purpose of this Training Needs Assessment in accordance with you benefitting from DTC/ GIZ Training intervention.
+**CONSENT:** Your personal data collected are required for the purpose of this Training Needs Assessment in accordance with you benefitting from GIZ/ DTC Training Intervention.
 
  
 
