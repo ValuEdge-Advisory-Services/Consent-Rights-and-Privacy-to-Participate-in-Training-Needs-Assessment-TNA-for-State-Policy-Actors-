@@ -1,16 +1,9 @@
 # Consent-Rights-and-Privacy-to-Participate-in-Training-Needs-Assessment-TNA-for-State-Policy-Actors-
-**CONSENT:** Your personal data collected are required for the purpose of this Training Needs Assessment in accordance with you benefiting from the digital skills training funded by GIZ.
-
-
-
-Kindly click on this link
-https://forms.gle/E7vZLmF6BTRmQNTM9
+**CONSENT:** Your personal data collected are required for the purpose of this Training Needs Assessment in accordance with you benefitting from DTC/ GIZ Training intervention.
 
  
 
 **RIGHTS & PRIVACY NOTICE**
-
- 
 
 **Job Name:** Training Needs Assessment (TNA)
 
@@ -62,4 +55,4 @@ o   However, if you do include any personal information that identifies, or coul
 
 **How can I contact you about this survey and/or my personal data?**
 
-§  Contact  ValuEdge Advisory Services Ltd; Email: hypercyc@hotmail.com  with “GIZ-DTC TNA Survey” in the email  subject line
+§  Contact  ValuEdge Advisory Services Ltd; Email: hypercyc@hotmail.com  with “GIZ/ DTC TNA Survey” in the email  subject line
